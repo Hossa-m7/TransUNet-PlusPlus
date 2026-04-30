@@ -1,4 +1,4 @@
-# TransUNet++ README
+# TransUNet++
 
 ## Overview
 
